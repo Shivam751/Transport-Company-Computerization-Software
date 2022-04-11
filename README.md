@@ -23,7 +23,7 @@ TCCS is a web based application that helps transport company computerize its boo
 │   └── TelePort.db [database]
 ├── run.py
 ├── README.md
-
+```
 
 ## Dependencies
 The dependencies for the software are mentioned in the requirements.txt file.
