@@ -2,8 +2,6 @@
 # Transport-Company-Computerization-Software
 TCCS is a web based application that helps transport company computerize its bookeeping activities for its various operations.
 
-## Repository structure
-
 ## Tech-Stack
 1. Front-end: HTML/CSS/JavaScript
 2. Back-end: Flask
