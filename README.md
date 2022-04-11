@@ -1,5 +1,8 @@
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/) 
 # Transport-Company-Computerization-Software
 TCCS is a web based application that helps transport company computerize its bookeeping activities for its various operations.
+
+## Repository structure
 
 ## Tech-Stack
 1. Front-end: HTML/CSS/JavaScript
