@@ -7,6 +7,24 @@ TCCS is a web based application that helps transport company computerize its boo
 2. Back-end: Flask
 3. Database-Management: SQLAlchemy
 
+## Repository Structure
+
+``` shell
+├── TelePort
+│   ├── static
+│   │   ├── images
+│   │   ├── styles
+│   ├── templates
+│   │   ├── .html files
+│   ├── __init__.py
+│   └── forms.py
+│   └── models.py
+│   └── routes.py
+│   └── TelePort.db [database]
+├── run.py
+├── README.md
+
+
 ## Dependencies
 The dependencies for the software are mentioned in the requirements.txt file.
 
