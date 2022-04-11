@@ -21,3 +21,5 @@ The dependencies for the software are mentioned in the requirements.txt file.
 1. Install the dependencies from requirements.txt
 2. Activate the virtual environment.
 3. Run the command `python ./run.py`
+
+## Screenshots of the applications:
