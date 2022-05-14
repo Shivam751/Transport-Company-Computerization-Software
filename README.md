@@ -17,10 +17,10 @@ TCCS is a web based application that helps transport company computerize its boo
 │   ├── templates
 │   │   ├── .html files
 │   ├── __init__.py
-│   └── forms.py
-│   └── models.py
-│   └── routes.py
-│   └── TelePort.db [database]
+│   ├── forms.py
+│   ├── models.py
+│   ├── routes.py
+│   ├── TelePort.db [database]
 ├── run.py
 ├── requirements.txt
 ├── README.md
